@@ -12,7 +12,8 @@
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
   padding: 5px;
-  background: black
+  background: black;
+  width: device-width
 }
 
 .columna1,
