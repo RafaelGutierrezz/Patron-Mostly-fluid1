@@ -3,6 +3,7 @@
 <head>
   <title>Mostly Fluid</title>
   <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
   <style>
   	/* Mostly Fluid */
 .container {
@@ -19,7 +20,7 @@
 .columna2,
 .columna3,
 .columna4{
-  width: 300px;
+  width: 30%;
   color: red;
   border: 1px solid #f2f2f2;
   margin: 2px auto;
