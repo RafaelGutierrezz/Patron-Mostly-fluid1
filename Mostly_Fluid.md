@@ -19,7 +19,7 @@
 .columna2,
 .columna3,
 .columna4{
-  width: 300%;
+  width: 300px;
   color: red;
   border: 1px solid #f2f2f2;
   margin: 2px auto;
