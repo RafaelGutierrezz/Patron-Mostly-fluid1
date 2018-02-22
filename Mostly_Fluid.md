@@ -31,7 +31,7 @@ footer {
     color: yellow;
   }
 
-@media (min-width: 800px) {
+@media (min-width: 600px) {
   .columna2,
   .columna3,
   .columna4 {
@@ -39,7 +39,7 @@ footer {
   }
 }
 
-@media (min-width: 1080px) {
+@media (min-width: 900px) {
   .columna1 { width: 98%; }
   .columna2 { width: 31%; }
   .columna3,
