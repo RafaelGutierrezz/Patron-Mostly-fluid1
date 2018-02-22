@@ -3,7 +3,6 @@
 <head>
   <title>Mostly Fluid</title>
   <meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
   <style>
   	/* Mostly Fluid */
 .container {
@@ -12,7 +11,7 @@
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
   padding: 5px;
-  background: url(http://avante.biz/wp-content/uploads/Black-Wallpapers-HD-1920x1080/Black-Wallpapers-HD-1920x1080-022.jpg) no-repeat center top;
+  background: rgba(5, 15, 15, 0.5);
 
 }
 
@@ -20,8 +19,8 @@
 .columna2,
 .columna3,
 .columna4{
-  width: 30%;
-  color: red;
+  width: 300%;
+  color: #FF8000;
   border: 1px solid #f2f2f2;
   margin: 2px auto;
 }
@@ -32,7 +31,7 @@ footer {
     color: yellow;
   }
 
-@media (min-width: 700px) {
+@media (min-width: 800px) {
   .columna2,
   .columna3,
   .columna4 {
@@ -56,9 +55,13 @@ footer {
 }
 </style>
 </head>
-<body style="background-color:red;">
+<body style=" background-image: url(https://cdn.wallpapersafari.com/41/9/h0k9zK.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+">
 <header>
-<h2>Tipos de diseño web</h2>
+<h2 style="color:yellow">Tipos de diseño web </h2>
 <header>
 <div class="container">
 
@@ -82,3 +85,4 @@ footer {
       </footer>
 </body>
 </html>
+
