@@ -83,6 +83,9 @@ background-size: cover;
     </div>
     <footer color:yellow>
         <a href="https://www.facebook.com/rafael.gutierrez.1481">http://www.RafaelGutierrez.com</a>
+	<h3>Direccion:</h3>
+	<h3>Telefono</h3>
+	<h3>Quienes somoos?</h3>
       </footer>
 </body>
 </html>
